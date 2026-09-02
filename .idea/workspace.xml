@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fafd0471-f59a-4297-8c9d-f2660db5f467" name="Changes" comment="Updating README.md to include description.">
-      <change beforePath="$PROJECT_DIR$/docs/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Facts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Hobbies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +46,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0346740460021202" />
-      <entry key="MS500" value="1.510506100056746" />
-      <entry key="S2" value="1.8591676621120428" />
-      <entry key="S5" value="2.1178495871980836" />
-      <entry key="S10" value="2.4382610527588744" />
-      <entry key="S30" value="3.0996242917700965" />
-      <entry key="S60" value="3.490684752996645" />
-      <entry key="M2" value="4.374793901648328" />
-      <entry key="M5" value="8.20553301175774" />
-      <entry key="M10" value="11.996481010457797" />
-      <entry key="M15" value="13.871626720282064" />
-      <entry key="M30" value="16.17344444875004" />
-      <entry key="H1" value="17.514175432553422" />
-      <entry key="H2" value="18.23800094993231" />
-      <entry key="H4" value="18.614104577900164" />
-      <entry key="D1" value="18.934993304918596" />
-      <entry key="W1" value="18.990696269218763" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000002660363445" />
+      <entry key="S60" value="1.00102264897431" />
+      <entry key="M2" value="1.074879955403623" />
+      <entry key="M5" value="2.612389601405435" />
+      <entry key="M10" value="6.317842452620846" />
+      <entry key="M15" value="9.064580675416089" />
+      <entry key="M30" value="13.331892203824834" />
+      <entry key="H1" value="16.29337348956746" />
+      <entry key="H2" value="18.042528684719052" />
+      <entry key="H4" value="18.993703063381318" />
+      <entry key="D1" value="19.828319351594207" />
+      <entry key="W1" value="19.975375271097153" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -88,23 +84,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0854998538431219" />
-      <entry key="MS500" value="1.0263452065091585" />
-      <entry key="S2" value="1.7034389926379239" />
-      <entry key="S5" value="2.051970831555259" />
-      <entry key="S10" value="2.4045226792137844" />
-      <entry key="S30" value="3.0879496512783704" />
-      <entry key="S60" value="3.4847128624440056" />
-      <entry key="M2" value="4.371625591816038" />
-      <entry key="M5" value="8.203935339575624" />
-      <entry key="M10" value="11.995518369022983" />
-      <entry key="M15" value="13.870930966154935" />
-      <entry key="M30" value="16.173063444782727" />
-      <entry key="H1" value="17.513975286019893" />
-      <entry key="H2" value="18.237898273702356" />
-      <entry key="H4" value="18.614052563589993" />
-      <entry key="D1" value="18.93498453971828" />
-      <entry key="W1" value="18.990695014663014" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9903428719330246" />
+      <entry key="S2" value="0.9975769252644544" />
+      <entry key="S5" value="0.9990300646389034" />
+      <entry key="S10" value="0.9995149146655609" />
+      <entry key="S30" value="0.9998385437704899" />
+      <entry key="S60" value="1.0009400355171083" />
+      <entry key="M2" value="1.0747852931325321" />
+      <entry key="M5" value="2.6120594850578227" />
+      <entry key="M10" value="6.31740764284287" />
+      <entry key="M15" value="9.064170792051366" />
+      <entry key="M30" value="13.33159900119256" />
+      <entry key="H1" value="16.29319737388051" />
+      <entry key="H2" value="18.042432064861547" />
+      <entry key="H4" value="18.993652445743198" />
+      <entry key="D1" value="19.82831057961659" />
+      <entry key="W1" value="19.975374009531002" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -119,31 +115,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Disploy",
-    "git.auto.fetch.suggestion.counter": "1",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Disploy&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
