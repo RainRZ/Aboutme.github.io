@@ -1,0 +1,54 @@
+body {
+    background-color: #464858;
+    color: black;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0F3040;
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+nav {
+    justify-content: center;
+    display: flex;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 8px;
+    border: 2px solid ;
+    border-radius: 4px;
+}
+
+.group {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.hobby {
+    background-color: #A56F63;
+    width: 200px;
+    height: 120px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    color: black;
+}
+
+footer {
+    background-color: #0F3040;
+    text-align: center;
+    padding: 20px;
+    color: black
+}
