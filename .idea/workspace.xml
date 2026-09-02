@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fafd0471-f59a-4297-8c9d-f2660db5f467" name="Changes" comment="Updating README.md to include description.">
+      <change beforePath="$PROJECT_DIR$/.docs/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Facts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Hobbies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RainRZ&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RainRZ/Aboutme.github.io&quot;,
+    &quot;accountId&quot;: &quot;bc38f797-9218-4ebe-9edb-9c53ef64756a&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000007311645" />
+      <entry key="MS500" value="1.0292810877057825" />
+      <entry key="S2" value="2.7146546527929045" />
+      <entry key="S5" value="6.657255215749603" />
+      <entry key="S10" value="9.807924801339599" />
+      <entry key="S30" value="12.969950313610688" />
+      <entry key="S60" value="13.94179904076463" />
+      <entry key="M2" value="14.459617493040772" />
+      <entry key="M5" value="14.78107422689461" />
+      <entry key="M10" value="14.890069448320453" />
+      <entry key="M15" value="14.92660862572991" />
+      <entry key="M30" value="14.963252038999972" />
+      <entry key="H1" value="14.981612931504454" />
+      <entry key="H2" value="14.990803191308903" />
+      <entry key="H4" value="14.995400776737858" />
+      <entry key="D1" value="14.999233349025264" />
+      <entry key="W1" value="14.999890475645781" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363293499186" />
+      <entry key="MS500" value="1.0181402798416077" />
+      <entry key="S2" value="2.6670563330940142" />
+      <entry key="S5" value="6.613978401752117" />
+      <entry key="S10" value="9.779006669543906" />
+      <entry key="S30" value="12.958192639668294" />
+      <entry key="S60" value="13.935616432858035" />
+      <entry key="M2" value="14.4564469719601" />
+      <entry key="M5" value="14.779786570978832" />
+      <entry key="M10" value="14.889422342133743" />
+      <entry key="M15" value="14.926176490345362" />
+      <entry key="M30" value="14.963035604984002" />
+      <entry key="H1" value="14.981504622785257" />
+      <entry key="H2" value="14.990749014005193" />
+      <entry key="H4" value="14.995373682347932" />
+      <entry key="D1" value="14.99922883249648" />
+      <entry key="W1" value="14.999889830407858" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IY2LNj4QbG9xbMh8FQ5yExWvIe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Disploy",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafd0471-f59a-4297-8c9d-f2660db5f467" name="Changes" comment="" />
+      <created>1787927125389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787927125389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating README.md to include description." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating README.md to include description." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
